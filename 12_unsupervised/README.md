@@ -1,0 +1,2 @@
+Unsupervised text visualization practice:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/madmo-basic/blob/madmo-basic-21-11/12_unsupervised/day12_dealing_with_word_embeddings__with_answers.ipynb)
